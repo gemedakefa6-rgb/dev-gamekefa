@@ -12,5 +12,5 @@ export const site = {
   email: "gemedakefa6@gmail.com", // TODO: replace with your real email
   github: "https://github.com/gemedakefa6-rgb", // TODO: replace with your real GitHub
   linkedin: "https://linkedin.com/in/gemeda-kefa-87942a423", // TODO: replace with your real LinkedIn
-  url: "https://dev-gamekefa.vercel.app", // TODO: update after deploy
+  url: "https://dev-gamekefa.vercel.app/", // TODO: update after deploy
 } as const;
